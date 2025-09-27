@@ -5,8 +5,8 @@ This project analyzes a Customer Shopping Preferences dataset to deliver data-dr
 
 ## 📊 Dashboard Overview
 This project features an interactive Power BI dashboard that visualizes key trends from a comprehensive customer shopping dataset. The dashboard is segmented into four main views:
-1.  **Sales Overview:** Tracks core business KPIs like revenue and quantity sold, including monthly trends and top-performing locations.
-2.  **Customer Demographics:** Provides a detailed breakdown of the customer base by age, gender, location, and spending habits.
+1.  **Sales Overview:** Tracks core business KPIs like revenue, quantity sold and average spend per customer, including monthly trends and top-performing locations.
+2.  **Customer Demographics:** Provides a detailed breakdown of the customer base by age, gender, location, spending habits and subscription status.
 3.  **Promotional Trends:** Analyzes the impact of discounts, shipping offers, and seasonal promotions on customer behavior.
 4.  **Product Performance:** Details sales trends by category, size, and individual products.
 
