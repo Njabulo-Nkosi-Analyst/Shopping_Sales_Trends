@@ -13,10 +13,10 @@ This project features an interactive Power BI dashboard that visualizes key tren
    ## 💡 Key Insights
 Analysis of the dashboard revealed several key insights into customer behavior:
 
-1.  **Dominant Demographic:** **Women aged 26-59** are the core customer base, accounting for 68% of all customers and showing the highest concentration in the "Adults" age bracket.
-2.  **Peak Shopping Times:** Sales activity surges mid-week and on weekends, specifically on **Wednesdays and Sundays**.The most profitable hours are in the **Evening (17:00-21:59)** and **Night (22:00-04:59)**.
-3.  **Top-Selling Category:** **Clothing** is the undisputed leader, representing 45% of revenue.Within this category, **size Medium (M)** is the most purchased size, driving 45% of sales
-4.  **Impact of Discounts:** Promotions are a major revenue driver. Items with a discount applied generate more revenue (**$134K**) than non-discounted items (**$99K**).
+1.  **Dominant Demographic:** **Women aged 26-59** are the core customer base, accounting for 65% of all customers and showing the highest concentration in the "Adults" age bracket.
+2.  **Peak Shopping Times:** Sales activity surges mid-week and on weekends, specifically on **Wednesdays and Sundays**.The most profitable hours are in the **Morning (05:00-11:59)** and **Night (22:00-04:59)**.
+3.  **Top-Selling Category:** **Clothing** is the undisputed leader, representing 46% of revenue.Within this category, **size Medium (M)** is the most purchased size, driving 45% of sales
+4.  **Impact of Discounts:** Items with a non-discounted applied generate more revenue (**$134K**) than discount items (**$99K**).
 
 ## 🚀 Business Recommendations
 
