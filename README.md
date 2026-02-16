@@ -34,21 +34,24 @@ Based on the insights, the following actions are recommended to help the busines
 - 🐘 **SQL** – for querying structured data and extracting insights    
 - 📊 **Power BI** – for interactive dashboards
 
-  ##  🎥 How to View
-
--**💡Full presentation** - is available in PDF format within this repository.- [>🔗View Presentation]
-
--🧠 **Miro Planning** - This includes project goals, KPIs, filters, and design planning
-[> 🔗View Miro Board]
-
+ ##  🎥 How to View
 
 -💻**SQL Code** - Includes all queries used for data transformation and insights.
-[> 🔗 View SQL Scripts]
+[> 🔗 View SQL Scripts](https://github.com/Njabulo-Nkosi-Analyst/Shopping_Sales_Trends/blob/main/02_Analysis/SQL_Queries%20.sql)
 
 
- -📊 **Dashboard Preview**- [>🔗 View Full Dashboard on Power BI (Public Link)]
+-**📽️Full presentation** - is available in PDF format within this repository.- [>🔗View Presentation](https://github.com/Njabulo-Nkosi-Analyst/Shopping_Sales_Trends/blob/main/04_Outputs/Shopping_Sales.pbit)
 
--**📝Project Description** - This File Shows The Objective And Aims Of The New CEO.- [>🔗 View Project Description]
+-**🧹Uncleaned Data** - is available in CSV format within this repository(profile dataset).- [>🔗View Uncleaned Data](https://github.com/Njabulo-Nkosi-Analyst/Shopping_Sales_Trends/blob/main/01_Data/Raw%20Data/Shopping%20data.csv)
+
+-**✨Cleaned Data** - is available in CSV format within this repository.- [>🔗View Cleaned Data](https://github.com/Njabulo-Nkosi-Analyst/Shopping_Sales_Trends/blob/main/01_Data/Raw%20Data/Insights%20data.csv)
+
+-**📝Project Description** - This File Shows The Objective And Aims Of The New CEO.- [>🔗 View Project Description](https://github.com/Njabulo-Nkosi-Analyst/Shopping_Sales_Trends/blob/main/03_Documentation/Customer%20shopping%20trends%20metadata.pdf)
+
+-**📅Gantt Charts** - is available in PDF format within this repository.- [>🔗View Gantt Charts](https://github.com/Njabulo-Nkosi-Analyst/Shopping_Sales_Trends/blob/main/03_Documentation/Gantt%20Chart.png)
+
+-🧠 **Miro Planning** - This includes project goals, KPIs, filters, and design planning
+[> 🔗View Miro Board](https://github.com/Njabulo-Nkosi-Analyst/Shopping_Sales_Trends/blob/main/03_Documentation/Shopping%20Sales%20Trends.png)
 
 
 ## 📩 Contact
